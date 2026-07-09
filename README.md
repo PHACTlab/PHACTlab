@@ -32,8 +32,8 @@ Our work sits at the intersection of biostatistics, health policy, community hea
 
 <!-- Add lab members -->
 
-- **Principal Investigators:** (_James Macinko_)[https://ph.ucla.edu/about/faculty-staff-directory/james-macinko]
-- **Lab members:** _Names_
+- **Principal Investigators:** [_James Macinko_](https://ph.ucla.edu/about/faculty-staff-directory/james-macinko), [_Diana R. Silver_](https://publichealth.nyu.edu/faculty/diana-r-silver)
+- **Lab members:** [_John Anthony "Jack" Kappelman_](https://www.jakappelman.com/)
 
 ## 📚 Publications
 
