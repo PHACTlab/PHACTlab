@@ -1,7 +1,7 @@
 # PHACT Lab
 
 **Public Health policy Analysis, Causal inference & Translation Lab**
-🎓 University of California, Los Angeles (UCLA)
+🎓 University of California, Los Angeles (UCLA); New York University (NYU)
 
 ---
 
