@@ -2,7 +2,7 @@
 
 **Public Health policy Analysis, Causal inference & Translation Lab**
 
-🎓 University of California, Los Angeles (UCLA); New York University (NYU)
+🎓 University of California, Los Angeles (UCLA) & New York University (NYU)
 
 ---
 
