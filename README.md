@@ -46,4 +46,4 @@ Our work sits at the intersection of biostatistics, health policy, community hea
 
 - 🌐 **Website:** _add lab website_
 - ✉️ **Email:** _add contact email_
-- 📍 **Location:** University of California, Los Angeles
+- 📍 **Location:** University of California, Los Angeles, California & New York University, New York City, New York
