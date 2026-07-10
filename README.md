@@ -33,8 +33,8 @@ Our work sits at the intersection of biostatistics, health policy, community hea
 
 <!-- Add lab members -->
 
-- **Principal Investigators:** [_James Macinko_](https://ph.ucla.edu/about/faculty-staff-directory/james-macinko), [_Diana R. Silver_](https://publichealth.nyu.edu/faculty/diana-r-silver)
-- **Lab members:** [_John Anthony "Jack" Kappelman_](https://www.jakappelman.com/), [_Cindy Pang_](https://cindyjpang.github.io/), [_Rithy Techavoan Yean_](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rithy-techavoan-yean-852031228&ved=2ahUKEwj49L-grsWVAxX96wIHHaQsKtUQFnoECB8QAQ&usg=AOvVaw0eCdxu0FHDOGuA4FuKda4t)
+- **Principal Investigator:** [_James Macinko_](https://ph.ucla.edu/about/faculty-staff-directory/james-macinko) 
+- **Lab members:** [_Diana R. Silver_](https://publichealth.nyu.edu/faculty/diana-r-silver), [_John Anthony "Jack" Kappelman_](https://www.jakappelman.com/), [_Cindy Pang_](https://cindyjpang.github.io/), [_Rithy Techavoan Yean_](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rithy-techavoan-yean-852031228&ved=2ahUKEwj49L-grsWVAxX96wIHHaQsKtUQFnoECB8QAQ&usg=AOvVaw0eCdxu0FHDOGuA4FuKda4t)
 
 ## 📚 Publications
 
