@@ -10,7 +10,7 @@
 
 The PHACT Lab studies how policies, interventions, and exposures shape population health. We use rigorous **causal inference** methods to move beyond correlation and estimate the real effects of public health decisions and we work to **translate** those findings into evidence that policymakers, practitioners, and communities can act on.
 
-Our work sits at the intersection of biostatistics, public health policy, and social sciences. The through-line is a commitment to asking causal questions carefully and answering them with methods matched to the data and the decision at hand (hence this repository where all the relevant codes will be open-source).
+Our work sits at the intersection of biostatistics, public policy, health economics, law, and social sciences. The through-line is a commitment to asking causal questions carefully and answering them with methods matched to the data and the decision at hand (hence this repository where all the relevant codes will be open-source).
 
 ## 🔬 What we do
 
